@@ -9,6 +9,5 @@ You then wire up the materials like this:
 
 ![image](https://github.com/Al-Techs/Arduino-Uno-Apps/assets/158309700/0f590dca-87ad-412d-b781-36fd81e65f8b)
 
-Then, you open whatever Arduino Ide you use, and paste this code into it.
-For now, it just plays a sound and starts counting.
-(It is unfinished, after all.)
+Then, you open whatever Arduino Ide you use, and load the "computer.ino" sketch into it. Make sure you have the LiquidCrystal and pitches libraries installed.
+For now, it just plays a sound and starts counting. (It is unfinished, after all.)
